@@ -1,1 +1,1 @@
-Haskell Curry!
+no code no pain
